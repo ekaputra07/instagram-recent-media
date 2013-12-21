@@ -70,5 +70,4 @@ function irm_settings(){
     </form>
     </div>
     <?php
-
 }
