@@ -7,10 +7,10 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Display your most recent Instagram as a widget.
+Display your most recent Instagram photos in a widget.
 
 == Description ==
-Display your most recent Instagram as a widget. This plugin means to be simple, easy to use and works.
+Display your most recent Instagram photos in a widget. This plugin means to be simple, easy to use and works.
 
 To avoid request to Instagram server on every page load, this will only pull data from Instagram once daily.
 
